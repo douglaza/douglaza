@@ -2,7 +2,7 @@
 
 I'm Douglas, and I'm Developer Jr Front End right now.<br>
 Actually I'm learning JS at Trybe for 6 months 👋<br>
-Wellcome to my portfolio!<br>
+Wellcome to my portfolio page!<br>
 
 <!--
 **douglaza/douglaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

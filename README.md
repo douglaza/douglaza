@@ -4,6 +4,7 @@ I'm Douglas, and I'm Developer Jr Front End right now.<br>
 Actually I'm learning JS at Trybe for 6 months 👋<br>
 Wellcome to my portfolio page!<br>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=douglaza)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **douglaza/douglaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

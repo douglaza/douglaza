@@ -1,6 +1,6 @@
 ### Hi there! 
 
-I'm Douglas, and I'm Developer Jr Front End right now.<br>
+I'm Douglas, and I'm Front End Developer Jr right now.<br>
 Actually I'm learning JS at Trybe for 6 months 👋<br>
 Wellcome to my portfolio page!<br>
 

@@ -1,7 +1,7 @@
 ### Hi there! 
 
-I'm Douglas, and I'm Front End Developer Jr right now.<br>
-Actually I'm learning JS at Trybe for 6 months 👋<br>
+I'm Douglas, and I'm Full Stack Developer right now.<br>
+I've been learning Javascript, Python, HTML, CSS, SQL, MongoDB, NodeJS over the last months. 👋<br>
 Wellcome to my portfolio page!<br>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=douglaza)](https://github.com/anuraghazra/github-readme-stats)

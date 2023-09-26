@@ -8,9 +8,9 @@ Wellcome to my portfolio page!<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Contacts:
-douglaza@gmail.com
-https://www.linkedin.com/in/douglaza
+Contacts:<br>
+douglaza@gmail.com<br>
+https://www.linkedin.com/in/douglaza<br>
 
 <!--
 **douglaza/douglaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
